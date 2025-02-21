@@ -2,6 +2,8 @@
 
 # Hello, I'm Mahad 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=PeinZero&color=253858&style=for-the-badge)
+
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;&nbsp;***About me***
 
 I am a Software Engineer with 2.5 years of experience, focused on full-stack development, dedicated to crafting applications that are efficient, impactful, and high-performing.
