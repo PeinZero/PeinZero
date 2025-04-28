@@ -1,4 +1,4 @@
-[![header](./mkt_banner.png)](https://mahadkhalidtarar.com/)
+[![header](./mkt_banner-v2.png)](https://mahadkhalidtarar.com/)
 
 # Hello, I'm Mahad 👋
 
