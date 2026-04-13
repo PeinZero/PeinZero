@@ -1,6 +1,6 @@
 [![header](./mkt-banner-v2.png)](https://mahadkhalidtarar.com/)
 
-# Hello, I'm Mahad 👋
+# Hello, I'm Mahad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ![Profile views](https://komarev.com/ghpvc/?username=PeinZero&color=253858&style=for-the-badge)
 
